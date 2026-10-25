@@ -1,6 +1,6 @@
 # Brian St. Marie
 
-Technology executive with 15+ years building and leading consulting teams for enterprise and mid-market clients, now focused on applied AI.
+Technology executive with 15+ years building and leading consulting teams for enterprise and mid-market clients.
 
 VP of Technology at [iuvo](https://www.iuvotech.com) · [brsm.dev](https://brsm.dev) · [Resume](https://brsm.dev/about) · [LinkedIn](https://www.linkedin.com/in/brsm/)
 
